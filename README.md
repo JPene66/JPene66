@@ -1,4 +1,4 @@
-<h1 align="center">Caspa Clinton</h1>
+<h1 align="center">Steve Jordan E. Pene</h1>
 <h3 align="center">AI Solutions Architect · Software Engineer</h3>
 
 <p align="center">
