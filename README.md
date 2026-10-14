@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://my-portfolio-omega-flame-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F2A44?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jordan-pene-7b7105437/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="https://my-portfolio-omega-flame-29.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F2A44?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jordan-pene-7b7105437/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:stevejordansteve940@gmail.com"><img src="https://img.shields.io/badge/Email-1BA098?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
